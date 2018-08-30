@@ -8,3 +8,4 @@ company of ThisThat and tell the employees; keep these commandments._
 1. Thou shalt not be forced to wear suits, for we are a civilised peoples and thou shalt wear what thou findest comfort in.
 2. Remember the weekend, to keep it holy.
 3. Five days shalt thou labour, and do all thy work.
+4. Thou shalt not ~steal~ fiddle with the database.
