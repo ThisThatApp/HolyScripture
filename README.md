@@ -12,3 +12,4 @@ company of ThisThat and tell the employees; keep these commandments._
 5. Thou shalt not call the office 'home'. 
 6. Once thou hath departed the office, thou shalt not entertain the thought of work.
 7. Thou shalt not be triste.
+8. Thou shalt not open a Pull Request after tea time.
